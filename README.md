@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# End-To-End-Cell-Segmentation-Using-Yolo-V8
-End To End Cell Segmentation Using Yolo V8 (Computer Vision)
-=======
-# End-to-end-Cell-Segmentation-Using-Yolo-v8
+
+## End To End Cell Segmentation Using Yolo V8 (Computer Vision)
+
 
 ## Workflows
 
